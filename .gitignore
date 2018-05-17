@@ -1,0 +1,6 @@
+node_modules
+server/secrets.js
+public/bundle.js
+.DS_Store
+npm-debug.log
+yarn-error.log
