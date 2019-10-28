@@ -48,7 +48,7 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "sass-loader": "^6.0.7",
-    "sequelize": "^4.37.6",
+    "sequelize": "^5.15.1",
     "session": "^0.1.0",
     "style-loader": "^0.20.3"
   }
